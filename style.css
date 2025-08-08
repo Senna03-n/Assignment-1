@@ -1,0 +1,47 @@
+.one-page{
+    width: 1400px;
+    height: 400px;
+}
+
+body {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 130px;
+    margin-bottom: 200px;
+    background-color: #f4f4f4;
+    color: #333;
+ }
+
+main {
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    line-height: 2;
+}
+
+h2, h3, h4, h5 {
+    font-size: 30px;
+    line-height: 1.25;
+    font-weight:580;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.annotation {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 70;
+    font-size: 25px;
+    font-style: italic;
+    text-align: right;
+    line-height: 5;
+}
